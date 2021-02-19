@@ -4,4 +4,4 @@ Files related to a manuscript submitted to *Infant and Child Development* for a 
 
 ## Components
 
-- Planning [outline](planning.html)
+- Planning [outline](planning.md)
